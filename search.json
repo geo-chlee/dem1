@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto_web",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html#abstract",
+    "href": "about.html#abstract",
+    "title": "About",
+    "section": "abstract",
+    "text": "abstract"
+  },
+  {
+    "objectID": "about.html#the-other-thing",
+    "href": "about.html#the-other-thing",
+    "title": "About",
+    "section": "the other thing",
+    "text": "the other thing\n\none thing\nthe second thing a link\n\n\na moving thing\n\nReturn Home"
+  },
+  {
+    "objectID": "codeblock.html",
+    "href": "codeblock.html",
+    "title": "codeblock",
+    "section": "",
+    "text": "x&lt;-rnorm(50)\ny&lt;-rnorm(50)\nplot(x,y, main = \"scatter plot\",pch=19)\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis is a note callout block.\n\n\n\n\n\nHeader 1\nHeader 2\nHeader3\n\n\n\n\nval1\nval2\nval3\n\n\nval1\nval2\nval3\n\n\n\n\nline-included a simple knowledge : \\(Y= \\alpha + \\beta \\cdot x\\) this is very simple. lets do math.\nindependent representation a simple knowledge : \\[\\bar{Y}= \\alpha + \\beta \\cdot x + \\epsilon \\] this is very simple. lets do math."
+  }
+]
