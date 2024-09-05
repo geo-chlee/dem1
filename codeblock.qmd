@@ -1,0 +1,34 @@
+---
+title: "codeblock"
+format: html
+---
+
+```{r}
+x<-rnorm(50)
+y<-rnorm(50)
+plot(x,y, main = "scatter plot",pch=19)
+```
+
+
+::: {.callout-note}
+This is a note callout block.
+:::
+
+| Header 1 | Header 2 | Header3 |
+|----------|----------|---------|
+|val1|val2|val3|
+|val1|val2|val3|
+
+
+- line-included
+a simple knowledge : $Y= \alpha + \beta \cdot x$ this is very simple. lets do math.
+
+- independent representation
+a simple knowledge : $$\bar{Y}= \alpha + \beta \cdot x + \epsilon $$ this is very simple. lets do math.
+$$
+\begin {bmatrix}
+1&0&0&0\\
+0&1&0&0\\
+\end{bmatrix}
+$$
+

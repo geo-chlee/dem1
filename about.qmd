@@ -1,0 +1,21 @@
+---
+title: "About"
+format:
+  revealjs:
+    theme: serif
+---
+
+# topic1
+
+## abstract
+
+## the other thing
+
+-   one thing
+-   the second thing [a link](https://google.com)
+
+::: fragment
+a moving thing
+:::
+
+[Return Home](index.html)
